@@ -8,11 +8,11 @@
 
 ---
 
-## 🎨 Who Am I?
+##  Who Am I?
 
 I’m a creative and detail-oriented **frontend developer** with a strong sense of design, structure, and user experience. I write clean, modern, accessible code and love transforming ideas into responsive, fast, and beautiful web interfaces.
 
-💡 Whether it’s a dashboard, landing page, or a full UI kit — I build it with purpose and passion.
+ Whether it’s a dashboard, landing page, or a full UI kit — I build it with purpose and passion.
 
 > “Code is how I speak. Design is how I connect.”
 
@@ -20,14 +20,14 @@ I’m a creative and detail-oriented **frontend developer** with a strong sense 
 
 ## 🚀 What I Do
 
-- 🔧 Turn UI/UX wireframes into pixel-perfect frontend builds  
-- 💬 Collaborate on frontend projects that value aesthetics *and* performance  
-- 🎯 Build real-world apps with clean code, reusability, and responsiveness  
-- 🔍 Pay attention to **details** that matter: spacing, typography, and layout flow
+-  Turn UI/UX wireframes into pixel-perfect frontend builds  
+-  Collaborate on frontend projects that value aesthetics *and* performance  
+-  Build real-world apps with clean code, reusability, and responsiveness  
+-  Pay attention to **details** that matter: spacing, typography, and layout flow
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 | Language | Frameworks/Libraries | Tools |
 |----------|----------------------|-------|
@@ -38,44 +38,35 @@ I’m a creative and detail-oriented **frontend developer** with a strong sense 
 
 ---
 
-## 🌟 Featured Projects
+##  Featured Projects
 
-### 🔸 [Crypto Sense](https://crypto-sense.vercel.app/)
+###  [Crypto Sense](https://crypto-sense.vercel.app/)
 > A clean, minimalistic dashboard that tracks live crypto data with elegance and responsiveness.
 
-- 📌 Built with React + TailwindCSS  
-- 📊 Uses public crypto APIs  
-- 🔗 [Live Site](https://crypto-sense.vercel.app/) | 📂 [Repo](https://github.com/pearltechie/crypto-sense)
+-  Built with React + TailwindCSS  
+-  Uses public crypto APIs  
+-  [Live Site](https://crypto-sense.vercel.app/) | 📂 [Repo](https://github.com/pearltechie/crypto-sense)
 
 ---
 
-### 🔸 [UI Template Hub](https://ui-template-hub.vercel.app/)
+###  [UI Template Hub](https://ui-template-hub.vercel.app/)
 > A curated collection of ready-to-use frontend templates for quick prototyping and UI inspiration.
 
-- 🎨 Built with pure HTML, CSS, JavaScript  
-- ✨ Focus on design, animations, layout  
-- 🔗 [Live Site](https://ui-template-hub.vercel.app/) | 📂 [Repo](https://github.com/pearltechie/ui-template-hub)
+-  Built with pure HTML, CSS, JavaScript  
+-  Focus on design, animations, layout  
+-  [Live Site](https://ui-template-hub.vercel.app/) | 📂 [Repo](https://github.com/pearltechie/ui-template-hub)
 
 ---
 
-### 🔸 [Personal Portfolio](https://pearltechie.github.io/portfolio-site)
+###  [Personal Portfolio](https://pearltechie.github.io/portfolio-site)
 > My digital portfolio showcasing my frontend journey, tools, and values.
 
-- 🎯 Built with modern layout techniques  
-- 🔗 [Live Demo](https://pearltechie.github.io/portfolio-site) | 📂 [Repo](https://github.com/pearltechie/portfolio-site)
+-  Built with modern layout techniques  
+-  [Live Demo](https://pearltechie.github.io/portfolio-site) | 📂 [Repo](https://github.com/pearltechie/portfolio-site)
 
 ---
 
-## 🎯 Currently Exploring
-
-- 🔹 NestJS & TypeScript for API design  
-- 🔹 Design Systems & Component Reuse  
-- 🔹 Accessibility-First Web Development  
-- 🔹 SEO + Performance Optimization
-
----
-
-## 📈 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pearltechie&show_icons=true&theme=radical" width="45%" />
@@ -86,9 +77,9 @@ I’m a creative and detail-oriented **frontend developer** with a strong sense 
 
 ## 📬 Let’s Connect
 
-💌 Email: jehofawapelumi@gmail.com  
-🌐 GitHub: [pearltechie](https://github.com/pearltechie)  
-💬 Open to collaboration, internships, and freelance frontend roles
+ Email: jehofawapelumi@gmail.com  
+ GitHub: [pearltechie](https://github.com/pearltechie)  
+ Open to collaboration, internships, and freelance frontend roles
 
 ---
 
