@@ -18,7 +18,7 @@ I’m a creative and detail-oriented **frontend developer** with a strong sense 
 
 ---
 
-## 🚀 What I Do
+##  What I Do
 
 -  Turn UI/UX wireframes into pixel-perfect frontend builds  
 -  Collaborate on frontend projects that value aesthetics *and* performance  
